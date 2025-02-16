@@ -16,7 +16,7 @@
 
 .places__header{
   max-width: 460px;
-  height: max-item;
+  height: max-content;
   font-family: "Inter-Black", sans-serif;
   font-size: 72px;
   line-height: 0.9;
